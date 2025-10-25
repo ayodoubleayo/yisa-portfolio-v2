@@ -8,7 +8,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and achieve
 
 ## 📄 Resume
 
-- [Resume - PDF](./resume.pdf)
 - [Resume (Intermediate) - PDF](./resume-intermediate.pdf)
 
 ---
